@@ -48,4 +48,4 @@ Python-based Monopoly game simulation using OOP principles
 - 🌐 Website: [ritwebsite.web.app](https://ritwebsite.web.app)
 
 ## Top Languages
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=ritzz26&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritzz26&layout=compact&theme=radical)
