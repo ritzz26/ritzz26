@@ -46,6 +46,3 @@ Python-based Monopoly game simulation using OOP principles
 - 📧 Email: [ritagarwalrit@gmail.com](mailto:ritagarwalrit@gmail.com)
 - 🔗 LinkedIn: [ritagarwal](https://www.linkedin.com/in/ritagarwal)
 - 🌐 Website: [ritwebsite.web.app](https://ritwebsite.web.app)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritzz26&layout=compact&theme=radical)
