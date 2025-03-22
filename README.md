@@ -1,13 +1,13 @@
 # Hi, I'm Rit Agarwal 👋
 
-Computer Science student at UCLA with a passion for software engineering, cloud technologies, and space exploration.
+Computer Science student at UCLA with a passion for software engineering, cloud technologies, and leadership.
 
 ## 👨‍💻 About Me
 
 - 🎓 Studying Computer Science at UCLA (Class of 2025) with a Minor in Mathematics
 - 🏆 Gerald and Thelma Merit Scholarship Awardee 2024/2025
 - 🚀 President of Bruin Spacecraft Group, participating in NASA CubeSat Launch Initiative
-- 💻 Experience with Full Stack Development, Cloud Infrastructure, and AI Engineering
+- 💻 Experience with Full Stack Development, AI Engineering, and Data Platforms
 
 ## 🔭 Current Work
 
