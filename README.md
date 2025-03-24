@@ -41,6 +41,12 @@ Community platform for music reviews with Spotify API integration
 ### [Monopoly Simulation](https://github.com/ritzz26/Monopoloy_Python)
 Python-based Monopoly game simulation using OOP principles
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ritzz26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ritzz26&icon=0&color=12)](https://visitcount.itsvg.in)
+
 ## 📫 Connect With Me
 
 - 📧 Email: [ritagarwalrit@gmail.com](mailto:ritagarwalrit@gmail.com)
